@@ -1,3 +1,13 @@
-# Modify this portfolio
+# Stephen Clemmer Portfolio Website
 
-Make it your own! 
+## URL:
+
+https://stephenclemmer.netlify.app/
+
+## Resources:
+Template: https://www.npmjs.com/package/cra-template-react-portfolio
+
+## Technologies:
+
+Built with React
+Hosted on Netlify.com
