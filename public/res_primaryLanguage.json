@@ -1,129 +1,140 @@
 {
-    "basic_info": {
-      "description_header": "Thanks for visiting! Let's connect!",
-      "description": "👋 I'm Stephen Clemmer,  a software developer, musician, and pokemon master. I love working with other people to solve intersting problems, and make the world a cool place. I lead with empathy and I'm obsessed with the client experience. Please connect with me on my social media!",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Thanks for visiting! Let's connect!",
+    "description": "👋 I'm Stephen Clemmer,  a software developer, musician, and pokemon master. I love working with other people to solve intersting problems, and make the world a cool place. I lead with empathy and I'm obsessed with the client experience. Please connect with me on my social media!",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Flappy Git",
+      "startDate": "August 2022",
+      "description": "Collaborated on a five-person team as project manager and software developer, to add features to this game including a leaderboard, sound controls, and more user-friendly design. Built with HTML, CSS, JavaScript.",
+      "images": [
+        "images/portfolio/flappy-git/p1.png",
+        "images/portfolio/flappy-git/p2.png"
+      ],
+      "url": "https://tribe-scary.github.io/201-project/",
+      "technologies": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Flappy Git",
-        "startDate": "August 2022",
-        "description": "Collaborated on a five-person team as project manager and software developer, to add features to this game including a leaderboard, sound controls, and more user-friendly design. Built with HTML, CSS, JavaScript.",
-        "images": [
-          "images/portfolio/flappy-git/p1.png",
-          "images/portfolio/flappy-git/p2.png"
-        ],
-        "url": "https://tribe-scary.github.io/201-project/",
-        "technologies": [
-          {
-            "name": "HTML 5",
-            "class": "devicon-html5-plain",
-            "level": "95"
-          },
-          {
-            "name": "CSS 3",
-            "class": "devicon-css3-plain",
-            "level": "95"
-          },
-          {
-            "name": "JavaScript",
-            "class": "devicon-javascript-plain",
-            "level": "70"
-          }
-        ]
-      },
-      {
-        "title": "Odd Duck",
-        "startDate": "July 2022",
-        "description": "Website mockup to survey favorite products and aggregate the results on a graph. Built with HTML, CSS, JavaScript.",
-        "images": [
-          "images/portfolio/odd-duck/p3.png"
-        ],
-        "url": "https://stephenclemmer.github.io/odd-duck/",
-        "technologies": [
-          {
-            "name": "HTML 5",
-            "class": "devicon-html5-plain",
-            "level": "95"
-          },
-          {
-            "name": "CSS 3",
-            "class": "devicon-css3-plain",
-            "level": "95"
-          },
-          {
-            "name": "JavaScript",
-            "class": "devicon-javascript-plain",
-            "level": "70"
-          }
-        ]
-      },
-      {
-        "title": "Salmon Cookies",
-        "startDate": "July 2022",
-        "description": "Website mockup with a homepage, merch page and sales page featuring table to track store sales. Built with HTML, CSS, JavaScript.",
-        "images": [
-          "images/portfolio/salmon-cookies/p4.png"
-        ],
-        "url": "https://stephenclemmer.github.io/cookie-stand/",
-        "technologies": [
-          {
-            "name": "HTML 5",
-            "class": "devicon-html5-plain",
-            "level": "95"
-          },
-          {
-            "name": "CSS 3",
-            "class": "devicon-css3-plain",
-            "level": "95"
-          },
-          {
-            "name": "JavaScript",
-            "class": "devicon-javascript-plain",
-            "level": "70"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Odd Duck",
+      "startDate": "July 2022",
+      "description": "Website mockup to survey favorite products and aggregate the results on a graph. Built with HTML, CSS, JavaScript.",
+      "images": [
+        "images/portfolio/odd-duck/p3.png"
+      ],
+      "url": "https://stephenclemmer.github.io/odd-duck/",
+      "technologies": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        }
+      ]
+    },
+    {
+      "title": "Salmon Cookies",
+      "startDate": "July 2022",
+      "description": "Website mockup with a homepage, merch page and sales page featuring table to track store sales. Built with HTML, CSS, JavaScript.",
+      "images": [
+        "images/portfolio/salmon-cookies/p4.png"
+      ],
+      "url": "https://stephenclemmer.github.io/cookie-stand/",
+      "technologies": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Code Fellows",
+      "title": "FullStack Developer",
+      "years": "July 2022 - December 2022",
+      "mainTech": [
+        ""
+      ],
+      "technologies": [
+        "HTML5",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Bootstrap"
+      ]
+    },
+    {
+      "company": "Landmark Pest Management",
+      "title": "Project Manager",
+      "years": "2013 - 2021",
+      "mainTech": [
+        ""
+      ],
+      "technologies": [
+        "Agile",
+        "Lean Six-Sigma",
+        "Waterfall",
+        "Project Management",
+        "Leading Through Change",
+        "Team Development"
+      ]
+    },
+    {
+      "company": "The Magic Shop",
+      "title": "Recording Engineer",
+      "years": "2007 - 2013",
+      "mainTech": [
+        ""
+      ],
+      "technologies": [
+        "Protools",
+        "Logic",
+        "Luna",
+        "Tape"
+      ]
+    }
+  ]
+}
