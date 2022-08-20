@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Stephen Clemmer,  Software developer with a passion for collaborating to create elegant solutions to interesting problems. I lead with empathy and I'm obsessed with the client experience. Thank you for exploring my portfolio! Please connect with me on my social media!",
+      "description_header": "Thanks for visiting! Let's connect!",
+      "description": "👋 I'm Stephen Clemmer,  a software developer, musician, and pokemon master. I love working with other people to solve intersting problems, and make the world a cool place. I lead with empathy and I'm obsessed with the client experience. Please connect with me on my social media!",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,14 +11,14 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Flappy Git",
+        "startDate": "August 2022",
+        "description": "Collaborated on a five-person team as project manager and software developer, to add features to this game including a leaderboard, sound controls, and more user-friendly design. Built with HTML, CSS, JavaScript.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/flappy-git/p1.png",
+          "images/portfolio/flappy-git/p2.png"
         ],
-        "url": "",
+        "url": "https://tribe-scary.github.io/201-project/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,14 +35,13 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Odd Duck",
+        "startDate": "July 2022",
+        "description": "Website mockup to survey favorite products and aggregate the results on a graph. Built with HTML, CSS, JavaScript.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/odd-duck/p3.png"
         ],
-        "url": "https://github.com",
+        "url": "https://stephenclemmer.github.io/odd-duck/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,14 +54,13 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Salmon Cookies",
+        "startDate": "July 2022",
+        "description": "Website mockup with a homepage, merch page and sales page featuring table to track store sales. Built with HTML, CSS, JavaScript.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/salmon-cookies/p4.png"
         ],
-        "url": "https://github.com",
+        "url": "https://stephenclemmer.github.io/cookie-stand/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
