@@ -21,16 +21,19 @@
         "url": "https://tribe-scary.github.io/201-project/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "HTML 5",
+            "class": "devicon-html5-plain",
+            "level": "95"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "CSS 3",
+            "class": "devicon-css3-plain",
+            "level": "95"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "JavaScript",
+            "class": "devicon-javascript-plain",
+            "level": "70"
           }
         ]
       },
@@ -44,12 +47,19 @@
         "url": "https://stephenclemmer.github.io/odd-duck/",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "name": "HTML 5",
+            "class": "devicon-html5-plain",
+            "level": "95"
           },
           {
+            "name": "CSS 3",
+            "class": "devicon-css3-plain",
+            "level": "95"
+          },
+          {
+            "name": "JavaScript",
             "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "level": "70"
           }
         ]
       },
@@ -63,16 +73,19 @@
         "url": "https://stephenclemmer.github.io/cookie-stand/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "HTML 5",
+            "class": "devicon-html5-plain",
+            "level": "95"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "CSS 3",
+            "class": "devicon-css3-plain",
+            "level": "95"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "JavaScript",
+            "class": "devicon-javascript-plain",
+            "level": "70"
           }
         ]
       }
