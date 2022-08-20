@@ -71,6 +71,7 @@ class About extends Component {
                   <div
                     className="card-body font-trebuchet text-justify ml-3 mr-3"
                     style={{
+                      backgroundImage: `url(https://images.pexels.com/photos/2310713/pexels-photo-2310713.jpeg?auto=compress&cs=tinysrgb&w=600)`,
                       height: "auto",
                       fontSize: "132%",
                       lineHeight: "200%",
