@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Stephen Clemmer",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Software developer with a passion for readable code, collaboration, and elegant solutions to interesting problems." ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/stephenclemmer",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/stephen-clemmer/",
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "myPicture.png"
     },
     "skills": {
       "icons": [
